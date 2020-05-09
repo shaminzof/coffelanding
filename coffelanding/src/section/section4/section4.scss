@@ -1,0 +1,17 @@
+.section4 {
+  background-image: url("section_bg_10.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 800px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.all-4 {
+  display: flex;
+  justify-content: space-around;
+}
